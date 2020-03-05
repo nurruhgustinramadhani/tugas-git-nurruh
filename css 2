@@ -1,0 +1,10 @@
+body {
+	background-image: url(pattern.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+nav {
+	text-align: right;
+	margin-top: 30px;
+	font-size: 25px;
+}
