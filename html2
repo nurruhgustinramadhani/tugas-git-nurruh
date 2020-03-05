@@ -1,0 +1,32 @@
+<html>
+<head><h1>Buat Account Baru!<h1></head>
+<h2>Sign Up Form</h2>
+<form action="tugasno3.html">
+First name:<br>
+<input type="text" name"firstname"><br>
+last name:<br>
+<input type="text" name"lastname"><br>
+<p>Gender:
+	<br>
+<input type=RADIO NAME=sex VALUE=p Checked >male
+<br>
+<input type=RADIO NAME=sex VALUE=p Checked >female
+<br>
+<input type=RADIO NAME=sex VALUE=p Checked >other
+<br>
+Nationality: <br><select name=negara>
+ <option value>china
+ <option value=indo>indonesia</option>
+ <option value=indo>malaysia</option>
+ <option value=indo>singapura</option>
+ </select>
+ <p>Language spoken:
+ <br><input type=checkbox NAME=sex VALUE=p checked >Bahasa indonesia
+ <br><input type=checkbox NAME=sex VALUE=p checked >English
+ <br><input type=checkbox NAME=sex VALUE=p checked >Other
+ <p>Bio
+ <br>
+ <textarea value="bio"></textarea><br>
+ <input type=submit NAME=Sign Up VALUE=Sign Up checked >
+ 
+ 
